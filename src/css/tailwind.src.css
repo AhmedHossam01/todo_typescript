@@ -1,0 +1,9 @@
+@tailwind base;
+body {
+  @apply bg-gray-400;
+  @apply flex;
+  @apply items-center;
+  @apply justify-center;
+}
+@tailwind components;
+@tailwind utilities;
